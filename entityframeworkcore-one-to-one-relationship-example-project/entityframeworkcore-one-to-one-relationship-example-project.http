@@ -1,0 +1,6 @@
+@entityframeworkcore_one_to_one_relationship_example_project_HostAddress = http://localhost:5094
+
+GET {{entityframeworkcore_one_to_one_relationship_example_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
