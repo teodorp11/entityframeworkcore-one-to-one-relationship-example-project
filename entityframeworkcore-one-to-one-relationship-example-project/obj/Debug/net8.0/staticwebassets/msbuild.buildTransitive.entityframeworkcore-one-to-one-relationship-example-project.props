@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\entityframeworkcore-one-to-one-relationship-example-project.props" />
+</Project>
